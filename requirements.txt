@@ -1,0 +1,11 @@
+board==1.0
+imutils==0.5.4
+matplotlib==3.8.0
+numpy==2.2.3
+opencv_python==4.8.1.78
+pyrealsense2==2.55.1.6486
+PyYAML==6.0.1
+PyYAML==6.0.2
+Requests==2.32.3
+scikit_learn==1.4.2
+ultralytics==8.2.11
